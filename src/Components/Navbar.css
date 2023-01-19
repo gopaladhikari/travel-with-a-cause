@@ -1,0 +1,53 @@
+.navbar {
+  background-color: rgba(232, 108, 86, 0.96);
+}
+
+.nav-link {
+  font-size: 0.85rem;
+  margin: 0 0.2em;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.logo {
+  width: 7rem;
+  object-fit: cover;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler-icon:active {
+  box-shadow: none;
+  outline: none;
+  border: none;
+}
+
+@media (min-width: 992px) {
+  .logo {
+    width: 8rem;
+  }
+  .nav-link {
+    font-size: 1.1rem;
+  }
+  .nav-link:hover {
+    transform: scale(1.05);
+  }
+}
+
+@media (min-width: 1200px) {
+  .nav-link {
+    margin: 0 0.5em;
+  }
+  .logo {
+    width: 9rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  .nav-link {
+    margin: 0 0.8em;
+  }
+  .logo {
+    width: 10rem;
+  }
+}

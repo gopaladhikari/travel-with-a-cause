@@ -1,0 +1,55 @@
+.travel {
+  font-size: 1.25rem;
+  text-align: right;
+  color: #ff6180;
+  border-right: 3px solid crimson;
+}
+
+.contactBtn {
+  font-size: 0.87rem;
+  background-color: transparent;
+  border: 1px solid #ff6180;
+  border-radius: 0.67em;
+  display: none;
+}
+
+.contactBtn:hover {
+  background-color: #ff6180;
+}
+
+.corTravel {
+  font-size: 1rem;
+  border: 1px solid #ff6180;
+  background-color: #ff6180;
+}
+.corTravel:hover {
+  background-color: #ff6180;
+}
+
+.fa-solid {
+  font-size: 2rem;
+  color: #ff6180;
+}
+
+.LinkPara {
+  color: #ff6180;
+}
+
+@media only screen and (min-width: 992px) {
+  .travel {
+    font-size: 1.32rem;
+    margin-left: 5rem;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .contactBtn {
+    display: block;
+  }
+}
+
+.form-control,
+.form-control:active,
+.form-control:focus {
+  box-shadow: none;
+  outline: none;
+}

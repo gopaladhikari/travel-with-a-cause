@@ -1,0 +1,53 @@
+.about-us {
+  color: #ff8c94;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+.para {
+  text-align: justify;
+  font-size: 14px;
+}
+
+.read-more {
+  background-color: #ff6161d1;
+  border-radius: 1em;
+}
+
+.read-more:hover {
+  background-color: #ff6161d1;
+}
+
+.fas {
+  color: #ff6161d1;
+  font-size: 3.5rem;
+}
+.internship {
+  color: crimson;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
+}
+
+.product-we-offer {
+  color: #ff8c94;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+@media (min-width: 992px) {
+  .para {
+    font-size: 16px;
+    line-height: 1.7rem;
+  }
+  .internship {
+    text-decoration-thickness: 1.5px;
+  }
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

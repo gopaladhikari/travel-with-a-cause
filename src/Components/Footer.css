@@ -1,0 +1,32 @@
+footer {
+  background-color: rgba(232, 108, 86, 0.81);
+  color: white;
+}
+
+@media only screen and (max-width: 991px) {
+  .cause {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+  }
+  .md-footer-logo,
+  .md-footer-logo img {
+    display: none !important;
+  }
+  .desktop-footer-wrapper {
+    width: 50%;
+  }
+  .footer-images {
+    width: 20% !important;
+    margin: 0 1.25% !important;
+  }
+}
+
+@media only screen and (min-width: 991px) {
+  .cause {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 30px;
+  }
+}
