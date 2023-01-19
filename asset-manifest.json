@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-with-a-cause/static/css/main.ecdb4e71.css",
+    "main.js": "/travel-with-a-cause/static/js/main.8f775d1a.js",
+    "index.html": "/travel-with-a-cause/index.html",
+    "main.ecdb4e71.css.map": "/travel-with-a-cause/static/css/main.ecdb4e71.css.map",
+    "main.8f775d1a.js.map": "/travel-with-a-cause/static/js/main.8f775d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdb4e71.css",
+    "static/js/main.8f775d1a.js"
+  ]
+}
