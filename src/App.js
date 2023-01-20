@@ -15,21 +15,12 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/travel-with-a-cause" element={<Home />} />
-          <Route
-            path="/travel-with-a-cause/corporate-sustainable"
-            element={"Corporate page"}
-          />
-          <Route
-            path="/travel-with-a-cause/spirit-of-tasmania"
-            element={"Sipirt page"}
-          />
-          <Route path="/travel-with-a-cause/pass-park" element={<PassPark />} />
-          <Route
-            path="/travel-with-a-cause/travel-and-more"
-            element={<TravelMore />}
-          />
-          <Route path="/travel-with-a-cause/about-page" element={<About />} />
-          <Route path="/travel-with-a-cause/contact" element={<Contact />} />
+          <Route path="/corporate-sustainable" element={"Corporate page"} />
+          <Route path="/spirit-of-tasmania" element={"Sipirt page"} />
+          <Route path="/pass-park" element={<PassPark />} />
+          <Route path="/travel-and-more" element={<TravelMore />} />
+          <Route path="/about-page" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer />
       </BrowserRouter>
