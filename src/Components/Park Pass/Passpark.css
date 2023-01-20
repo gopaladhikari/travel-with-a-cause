@@ -1,0 +1,25 @@
+.twac {
+  font-size: 1.32rem;
+  font-weight: 600;
+  text-align: justify;
+}
+.passpark_head {
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
+  cursor: pointer;
+}
+
+.mobile_scroll {
+  height: 50vh;
+  padding: 0.5em;
+  margin: 0 0.05em;
+  overflow-y: scroll;
+  border: 1px solid black;
+}
+
+.mandatory_sym {
+  color: red;
+}

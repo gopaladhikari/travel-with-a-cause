@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/travel-with-a-cause">
           <img
             src="https://static.wixstatic.com/media/30f17f_b93910978db8496490fe69c28bcfefb0~mv2.png/v1/crop/x_0,y_6,w_509,h_304/fill/w_184,h_92,al_c,q_95,enc_auto/twac%20white%20logo.png"
             className="img-fluid logo"
@@ -26,7 +26,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/travel-with-a-cause">
                 Home
               </Link>
             </li>
