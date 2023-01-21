@@ -16,6 +16,7 @@ function Navbar() {
           className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
+          j
           data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent"
           aria-expanded="false"
@@ -31,33 +32,42 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/corporate-sustainable">
+              <Link
+                className="nav-link"
+                to="/travel-with-a-cause/corporate-sustainable"
+              >
                 Corporate Sustainable
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link className="nav-link" to="/spirit-of-tasmania">
+              <Link
+                className="nav-link"
+                to="/travel-with-a-cause/spirit-of-tasmania"
+              >
                 Spirit of Tasmania
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/pass-park">
+              <Link className="nav-link" to="/travel-with-a-cause/pass-park">
                 Park Pass
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/travel-and-more">
+              <Link
+                className="nav-link"
+                to="/travel-with-a-cause/travel-and-more"
+              >
                 Travel & more
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/about-page">
+              <Link className="nav-link" to="/travel-with-a-cause/about-page">
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/contact">
+              <Link className="nav-link" to="/travel-with-a-cause/contact">
                 Contact
               </Link>
             </li>

@@ -81,6 +81,20 @@ function NationalParkEnquiry() {
                       />
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="mb-3  w-lg-50">
+                      <label htmlFor="feedback" className="form-label">
+                        Feedback <span className="mandatory_sym">*</span>{" "}
+                      </label>
+                      <input
+                        required
+                        type="text"
+                        className="form-control"
+                        id="feedback"
+                        aria-describedby="emailHelp"
+                      />
+                    </div>
+                  </div>
                   <div className="col-lg-12">
                     <div className="text-center">
                       <button type="submit" className="btn btn-primary">
