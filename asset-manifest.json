@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/travel-with-a-cause/static/css/main.fa7f5a05.css",
-    "main.js": "/travel-with-a-cause/static/js/main.b4cf5db2.js",
+    "main.js": "/travel-with-a-cause/static/js/main.0807032d.js",
     "index.html": "/travel-with-a-cause/index.html",
     "main.fa7f5a05.css.map": "/travel-with-a-cause/static/css/main.fa7f5a05.css.map",
-    "main.b4cf5db2.js.map": "/travel-with-a-cause/static/js/main.b4cf5db2.js.map"
+    "main.0807032d.js.map": "/travel-with-a-cause/static/js/main.0807032d.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7f5a05.css",
-    "static/js/main.b4cf5db2.js"
+    "static/js/main.0807032d.js"
   ]
 }
