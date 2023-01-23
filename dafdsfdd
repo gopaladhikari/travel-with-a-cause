@@ -1,0 +1,35 @@
+[33mcommit e199b865c27eeca84508d9fd4f15ae80db051e3f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Sat Jan 21 10:28:53 2023 +0545
+
+    Added spa instruction and 404 page
+
+[33mcommit 6364d5cc55f17ad268a72a2fd52b3abbd63c37b0[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Fri Jan 20 22:58:12 2023 +0545
+
+    Fixed Routing
+
+[33mcommit ac47f116697df0ae5a356fd22b9b73a69bc5767b[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Fri Jan 20 22:48:08 2023 +0545
+
+    Fixed routing
+
+[33mcommit cdf8ec150c0d5ed16b531b403e0d757a0fe138ce[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Fri Jan 20 22:43:39 2023 +0545
+
+    Second Commit
+
+[33mcommit 1032fdb68afc9f105d180dd473b745d3911a1487[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Thu Jan 19 11:13:08 2023 +0545
+
+    First
+
+[33mcommit e56f4b5c8be460ee79c8da1b1c2f06c460066c00[m
+Author: Gopal Adhikari <gopuadks@gmail.com>
+Date:   Mon Jan 16 21:51:35 2023 +0545
+
+    Initialize project using Create React App

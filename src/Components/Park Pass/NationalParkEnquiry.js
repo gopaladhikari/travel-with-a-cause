@@ -95,6 +95,45 @@ function NationalParkEnquiry() {
                       />
                     </div>
                   </div>
+
+                  <div className="col-lg-12">
+                    <div>
+                      <h2 className="preffered">
+                        Preferred Contact Method{" "}
+                        <span className="mandatory_sym">*</span>
+                      </h2>
+                      <div className="form-check">
+                        <input
+                          value="email"
+                          className="form-check-input"
+                          type="radio"
+                          name="flexRadioDefault"
+                          id="flexRadioDefault1"
+                        />
+                        <label
+                          className="form-check-label"
+                          htmlFor="flexRadioDefault1"
+                        >
+                          Email
+                        </label>
+                      </div>
+                      <div className="form-check">
+                        <input
+                          value="phone"
+                          className="form-check-input"
+                          type="radio"
+                          name="flexRadioDefault"
+                          id="flexRadioDefault2"
+                        />
+                        <label
+                          className="form-check-label"
+                          htmlFor="flexRadioDefault2"
+                        >
+                          Phone
+                        </label>
+                      </div>
+                    </div>
+                  </div>
                   <div className="col-lg-12">
                     <div className="text-center">
                       <button type="submit" className="btn btn-primary">
@@ -104,6 +143,20 @@ function NationalParkEnquiry() {
                   </div>
                 </div>
               </form>
+            </div>
+            <div className="col-12 my-3">
+              <p className="para">
+                Tasmiania National Park is a national park in Tasmania. It is
+                the oldest national park in Australia and one of the oldest in
+                the world.
+              </p>
+              <p className="para">
+                The Tasmainia National Park Pass provides you with access to all
+                of Tasmania's national parks. The pass is valid for 8 weeks from
+                the date of purchase and it includes entry to all parks,
+                reserves, and other protected areas administered by Parks and
+                Wildlife Service Tasmania
+              </p>
             </div>
           </div>
         </div>

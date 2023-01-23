@@ -23,3 +23,8 @@
 .mandatory_sym {
   color: red;
 }
+
+.preffered {
+  font-size: 1rem;
+  font-weight: 600;
+}
